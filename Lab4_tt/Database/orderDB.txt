@@ -1,0 +1,88 @@
+OrderID	CustomerID	AccountRep	OrderDate	ShippedDate	ShippedBy	Freight	ShipName	ShipAddress	ShipCity	ShipRegion	ShipPostalCode	ShipCountry	RequiredDate
+11079	LANER	Carpenter	05-Jan-10	07-Jan-10	Big Things Freight	$18.00	Eric Lang	991 S. Mississippi Rd.	St. Louis	MO	89203	USA	
+11080	ACKPI	Carpenter	05-Jan-10	06-Jan-10	EZ Does It	$13.25	Pilar Ackerman	8808 Backbay St.	Boston	MA	88337	USA	
+11081	BROKE	Anderson	06-Jan-10	07-Jan-10	EZ Does It	$8.95	Kevin Browne	666 Fords Landing	Westover	WV	66954	USA	
+11082	KHAKA	Anderson	06-Jan-10	08-Jan-10	Triple P Delivery	$5.50	Karan Khanna	401 Rodeo Dr.	Auburn	WA	34923	USA	12-Jan-10
+11083	KOCRE	Carpenter	08-Jan-10	09-Jan-10	Triple P Delivery	$28.00	Mary Anne Kobylka	4568 Spaulding Ave. N.	Seattle	WA	12345	USA	12-Jan-10
+11084	COXBR	Anderson	12-Jan-10	14-Jan-10	Triple P Delivery	$8.50	Arlette Cox	14 S. Elm Dr.	Moscow	ID	02912	USA	
+11085	RAMLU	Emanuel	12-Jan-10	13-Jan-10	EZ Does It	$3.00	Luciana Ramos	12 Juanita Ln.	Helena	MT	42665	USA	
+11086	OVESC	DeGrasse	12-Jan-10	13-Jan-10	Triple P Delivery	$6.95	Lani Ota	78 Miller St.	Seattle	WA	81233	USA	
+11087	THIRA	Carpenter	12-Jan-10	13-Jan-10	Big Things Freight	$20.00	John Thorson	27 Christopher St.	Seattle	WA	67645	USA	
+11088	MILFR	Emanuel	13-Jan-10	14-Jan-10	Triple P Delivery	$7.95	Geof Miller	18 Elm St.	Tulalip	WA	77483	USA	
+11089	ESTMO	Anderson	14-Jan-10	16-Jan-10	EZ Does It	$7.50	Modesto Estrada	511 Lincoln Ave.	Burns	OR	27182	USA	19-Jan-10
+11090	HOFRO	Emanuel	14-Jan-10	16-Jan-10	Big Things Freight	$14.50	Roland Hofmann	42 El Camino Dr.	Seattle	WA	11299	USA	
+11091	HOLMI	Carpenter	15-Jan-10	19-Jan-10	EZ Does It	$24.50	Michael Holm	4220 Main St.	Bellevue	WA	39200	USA	20-Jan-10
+11092	ASHCH	Emanuel	16-Jan-10	19-Jan-10	Triple P Delivery	$17.00	Teresa Atkinson	89 Cedar Way	Redmond	WA	30293	USA	
+11093	BENPA	Anderson	19-Jan-10	21-Jan-10	Big Things Freight	$0.00	Paula Bento	6778 Cypress Pkwy.	Oak Harbor	WA	30291	USA	
+11094	BANMA	Carpenter	22-Jan-10	23-Jan-10	Fast Freddie's Freightline	$4.35	Martin BankovAmie Baldwin	78 Riverside Dr.	Woodinville	WA	27283	USA	
+11095	GANJO	Emanuel	22-Jan-10	24-Jan-10	Big Things Freight	$18.95	Jon Ganio	45 Winding Wood Blvd.	Seattle	WA	38293	USA	
+11096	CORCE	Anderson	22-Jan-10	23-Jan-10		$14.40	Cecilia Cornejo	778 Ancient Rd.	Bellevue	WA	54930	USA	
+11097	KANJO	Anderson	22-Jan-10	23-Jan-10	EZ Does It	$30.00	Judy Kaethler	4110 Old Redmond Rd.	Redmond	WA	77382	USA	27-Jan-10
+11098	HIGSY	Carpenter	22-Jan-10	23-Jan-10		$18.50	Kim Hightower	72 West St.	Portland	OR	67823	USA	27-Jan-10
+11099	KELBO	Carpenter	22-Jan-10	23-Jan-10	Big Things Freight	$9.95	Bob Kelly	6 Cranbrook Hollow	Duvall	WA	33782	USA	27-Jan-10
+11100	GILGU	Emanuel	23-Jan-10	24-Jan-10	Zippy's Express	$16.50	Erik Gavriluk	79 S. Wyatt St.	Clinton	WA	36728	USA	28-Jan-10
+11101	LEVST	Anderson	23-Jan-10	24-Jan-10	Triple P Delivery	$3.25	Steven Levy	507 20th Ave. E.	Seattle	WA	73293	USA	
+11102	KENKE	Emanuel	23-Jan-10	24-Jan-10	Triple P Delivery	$12.45	Kevin Kennedy	566 Queen Anne Way	Redmond	WA	55548	USA	28-Jan-10
+11103	BOSRA	Carpenter	23-Jan-10	24-Jan-10	Fast Freddie's Freightline	$21.50	Randall Boseman	55 Grizzly Peak Rd.	Butte	MT	39201	USA	28-Jan-10
+11104	MEYCH	Emanuel	23-Jan-10	25-Jan-10	Triple P Delivery	$8.50	Deanna Meyer	722 DaVinci Blvd.	Kirkland	WA	44892	USA	28-Jan-10
+11105	BRETE	Emanuel	23-Jan-10	25-Jan-10	Triple P Delivery	$2.95	Ted Bremer	311 87th Pl.	Beaverton	OR	77293	USA	
+11106	WANQI	Anderson	24-Jan-10	25-Jan-10	Triple P Delivery	$14.50	Dale Washburn	98 Forrest Way	Redmond	WA	53203	USA	
+11107	PRIJE	Carpenter	24-Jan-10	25-Jan-10	Zippy's Express	$4.50	Jeff Price	87 Prince St.	Seattle	WA	32992	USA	
+11108	MCGCH	Anderson	24-Jan-10	25-Jan-10	EZ Does It	$2.95	Michael Matey	12 Pike St.	Everett	WA	39203	USA	30-Jan-10
+11109	WILJA	Anderson	25-Jan-10	26-Jan-10	Fast Freddie's Freightline	$2.95	James Wilson	99 18th St. N.	Seattle	WA	11283	USA	
+11110	BERJO	Anderson	24-Jan-10	25-Jan-10	EZ Does It	$14.50	Jo Berry	407 Sunny Way	Kirkland	WA	20192	USA	
+11111	PELDA	Emanuel	24-Jan-10	25-Jan-10	Big Things Freight	$25.00	David Pelton	193 Upper Mountain Ave.	Monroe	WA	73822	USA	
+11112	SAMPR	Carpenter	25-Jan-10	26-Jan-10	Zippy's Express	$12.95	Prasanna Samarawickrama	17331 Fairhaven St.	Seattle	WA	81733	USA	30-Jan-10
+11113	PHICA	Anderson	25-Jan-10	26-Jan-10	Zippy's Express	$21.95	Meng Phua	2222 Montrose Ct.	Snohomish	WA	72233	USA	30-Jan-10
+11114	HEEGO	Carpenter	25-Jan-10	26-Jan-10	Zippy's Express	$10.95	Achim Hepp	115 Leary Wy.	Seattle	WA	85637	USA	30-Jan-10
+11115	VANRO	Carpenter	25-Jan-10	26-Jan-10	Triple P Delivery	$11.95	Roger Van Houten	6565 Bentwood Circle	Redmond	WA	66382	USA	30-Jan-10
+11116	TIAMI	Carpenter	26-Jan-10	29-Jan-10	EZ Does It	$4.75	Mike Tiano	5540 Rosebud Place	Victoria	BC	Y3B 2X4	Canada	
+11117	DOYPA	Anderson	26-Jan-10	29-Jan-10	EZ Does It	$3.50	Kate Dresen	1630 Hillcrest Way	Carmel Valley	CA	68492	USA	
+11118	FUNDO	Carpenter	26-Jan-10	29-Jan-10	Fast Freddie's Freightline	$8.40	Don Funk	1815 Yolo St.	Seattle	WA	48721	USA	
+11119	GRACH	Anderson	26-Jan-10	29-Jan-10	EZ Does It	$18.50	Andrew Gray	48 Aurora Hwy.	Seattle	WA	37622	USA	31-Jan-10
+11120	HELAN	Anderson	26-Jan-10	29-Jan-10	Fast Freddie's Freightline	$2.95	Ann Hellung-Larser	"City Center Plaza, 516 Main St."	Elgin	OR	48293	USA	31-Jan-10
+11121	FORGA	Anderson	29-Jan-10	30-Jan-10	EZ Does It	$2.95	Garth Fort	23 W. 48th St. #2	Redmond	WA	26372	USA	
+11122	HOLHO	Carpenter	29-Jan-10	30-Jan-10	Zippy's Express	$12.95	William Hollands	18 Canyon Rd.	Newcastle	WA	42933	USA	
+11123	HILAN	Carpenter	29-Jan-10	30-Jan-10	Fast Freddie's Freightline	$6.95	Robin Hjellen	"89 Jefferson Way, Suite 2"	Portland	OR	66172	USA	
+11124	FLOKA	Anderson	29-Jan-10	30-Jan-10	Triple P Delivery	$4.95	Kathie Flood	8887 Western Ave.	Glendale	CA	32891	USA	03-Feb-10
+11125	CAMDA	Carpenter	29-Jan-10	30-Jan-10	Triple P Delivery	$12.95	David Campbell	22 Market St.	San Francisco	CA	41102	USA	03-Feb-10
+11126	OGIFU	Emanuel	29-Jan-10	30-Jan-10	Fast Freddie's Freightline	$4.25	Fukiko Ogisu	978 Carnegie Ave.	Seattle	WA	12893	USA	03-Feb-10
+11127	MARSA	Anderson	29-Jan-10	30-Jan-10	Triple P Delivery	$3.25	Sandra Martinez	780 West Blvd.	Arlington	WA	28394	USA	03-Feb-10
+11128	TEJSA	Anderson	29-Jan-10	31-Jan-10	Fast Freddie's Freightline	$6.95	Yoshi Tannamuri	1900 Oak St.	Vancouver	BC	V3F 2T1	Canada	03-Feb-10
+11129	CANCH	Carpenter	30-Jan-10	31-Jan-10	EZ Does It	$4.25	Chris Cannoy	89 W. Hilltop Dr.	Palo Alto	CA	43201	USA	
+11130	ERIGA	Anderson	30-Jan-10	31-Jan-10	Zippy's Express	$5.25	Gail A. Erickson	908 W. Capital Way	Tacoma	WA	30293	USA	
+11131	CULSC	Anderson	30-Jan-10	31-Jan-10	Triple P Delivery	$4.95	Scott Culp	14 E. University Way	Seattle	WA	11923	USA	
+11132	DANMI	Carpenter	30-Jan-10	31-Jan-10	EZ Does It	$21.50	Mike Danseglio	55 Newton	Seattle	WA	12938	USA	
+11133	GODSC	Emanuel	30-Jan-10	31-Jan-10	Big Things Freight	$29.95	Jack Gode	612 E. 2nd	Pocatello	ID	38271	USA	
+11134	HOEHE	Carpenter	30-Jan-10	31-Jan-10	Zippy's Express	$22.00	Helge Hoeing	431 Freemont St.	Bellevue	WA	33200	USA	
+11135	JIAST	Emanuel	30-Jan-10	31-Jan-10	Triple P Delivery	$14.95	Stephen Yuan	7316 Taylor Landing Rd.	Duvall	WA	77238	USA	
+11136	KLISE	Carpenter	31-Jan-10	01-Feb-10	Triple P Delivery	$2.95	Sergey Klimov	333 Baseline Ave.	Kenmore	WA	56789	USA	03-Feb-10
+11137	TRASH	Anderson	31-Jan-10	01-Feb-10	Triple P Delivery	$19.95	Adam Tratt	46 E. Orange St.	Bellevue	WA	88973	USA	05-Feb-10
+11138	HOUPE	Anderson	31-Jan-10	01-Feb-10	Fast Freddie's Freightline	$12.95	Peter Houston	11 Skyline Blvd.	Kirkland	WA	19203	USA	05-Feb-10
+11139	BERKA	Carpenter	31-Jan-10	01-Feb-10	Zippy's Express	$3.75	Karen Berg	PO Box 69	Yakima	WA	11203	USA	
+11140	ADATE	Carpenter	01-Feb-10	02-Feb-10	Triple P Delivery	$12.25	Terry Adams	1932 52nd Ave.	Vancouver	BC	V3G 2T1	Canada	
+11141	WISMA	Anderson	01-Feb-10	02-Feb-10	Triple P Delivery	$2.95	Mark Wistrom	722 Prospect Blvd.	Seattle	WA	32893	USA	
+11142	LUGJO	Anderson	01-Feb-10	02-Feb-10	Triple P Delivery	$3.95	Jose Lugo	23 Tsawassen Blvd.	Tsawassen	BC	T2G 8M4	Canada	
+11143	HONQI	Anderson	01-Feb-10	02-Feb-10	EZ Does It	$8.50	Qin Hong	234 Samuel Pl.	Carnation	WA	72831	USA	
+11144	FREJO	Carpenter	01-Feb-10	03-Feb-10	Triple P Delivery	$3.50	John Fredericksen	43 rue St. Laurent	Montréal	Québec	H1K 1C3	Canada	
+11145	MORJO	Emanuel	01-Feb-10	03-Feb-10	Big Things Freight	$23.00	Jon Morris	490 Fulton Dr.	Vancouver	BC	V3H 2K1	Canada	
+11146	LUMRI	Carpenter	02-Feb-10	03-Feb-10	Fast Freddie's Freightline	$3.95	Richard Lum	187 Suffolk Ln.	Boise	ID	92033	USA	07-Feb-10
+11147	KODSU	Emanuel	02-Feb-10	03-Feb-10	Big Things Freight	$6.95	Sunil Koduri	1522 Ballard Rd.	Seattle	WA	23456	USA	07-Feb-10
+11148	WANTO	Anderson	02-Feb-10	03-Feb-10	Fast Freddie's Freightline	$9.95	Suki White	87 Pauline Dr.	Seattle	WA	27839	USA	
+11149	ALLMI	Anderson	02-Feb-10	03-Feb-10	Triple P Delivery	$30.00	Steve Alboucq	130 17th St.	Vancouver	BC	V3Y 2K1	Canada	07-Feb-10
+11150	GABRO	Anderson	02-Feb-10	03-Feb-10	EZ Does It	$9.25	Ron Gabel	"507 - 20th Ave. E., Apt. 2A"	Seattle	WA	66732	USA	07-Feb-10
+11151	CLAMO	Anderson	03-Feb-10	05-Feb-10		$32.00	Molly Clark	785 Beale St.	Sidney	BC	V3U 2Y5	Canada	
+11152	COLPA	Emanuel	03-Feb-10	07-Feb-10	Big Things Freight	$31.50	Pat Coleman	876 Western Ave.	Seattle	WA	10293	USA	
+11153	CHANE	Anderson	03-Feb-10	07-Feb-10	Triple P Delivery	$6.75	Neil Charney	1842 10th Avenue	Sidney	BC	V3X 2Y5	Canada	
+11154	GLYJI	Carpenter	03-Feb-10	06-Feb-10	Zippy's Express	$9.50	Jim Glynn	12 Linden Terrace	Walla Walla	WA	48928	USA	
+11155	HARTO	Carpenter	06-Feb-10	07-Feb-10	Zippy's Express	$28.00	Tommy Hartono	66 Cactus St.	Seattle	WA	67283	USA	
+11156	MANPA	Carpenter	06-Feb-10	07-Feb-10	Triple P Delivery	$3.25	Darlene Mangione	77 Olive Ave.	Provo	UT	40392	USA	
+11157	SANPA	Emanuel	06-Feb-10	08-Feb-10	Big Things Freight	$4.00	Jenny Sax	98 N. Hyde St.	San Francisco	CA	41950	USA	
+11158	KIMSH	Anderson	06-Feb-10	08-Feb-10	Fast Freddie's Freightline	$2.95	Shane Kim	33 Hilo Loop SW	Kirkland	WA	43293	USA	
+11159	DANRY	Emanuel	06-Feb-10	07-Feb-10	Zippy's Express	$8.95	Ketan Dalal	33 Neptune Circle	Langley	WA	44021	USA	
+11160	HOLNI	Emanuel	06-Feb-10	08-Feb-10	Big Things Freight	$34.00	Helmut Hornig	82 E. South Way	Seattle	WA	29302	USA	
+11161	FENHA	Carpenter	07-Feb-10	08-Feb-10	Triple P Delivery	$12.95	Brian Fleming	537 Orchard Ave.	Victoria	BC	Y3C 2W4	Canada	
+11162	MITSC	Anderson	07-Feb-10	08-Feb-10	Zippy's Express	$3.50	Patti Mintz	47 Eucalyptus Dr.	Escondido	CA	26371	USA	
+11163	MILBE	Carpenter	07-Feb-10	09-Feb-10	EZ Does It	$9.45	Eric Miller	23 High Pass Dr.	Granada Hills	CA	33216	USA	
+11164	JACLO	Anderson	07-Feb-10	09-Feb-10	Fast Freddie's Freightline	$3.45	Lola Jacobson	998 Kirk Rd.	Bellingham	WA	14233	USA	
+11165	JOHDA	Carpenter	07-Feb-10	09-Feb-10	Zippy's Express	$4.25	David Johnson	9878 Jefferson Circle	Seattle	WA	39920	USA	
