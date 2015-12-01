@@ -11,6 +11,7 @@ public:
 	static void addOrder(Order* order);
 	static void removeOrder(int orderId);
 	static void save();
+	static void close();
 private:
 
 	DB() {}

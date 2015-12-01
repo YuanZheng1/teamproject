@@ -67,3 +67,10 @@ void DB::save() {
 	}
 	fs.close();
 }
+
+void DB::close() {
+	for (int i = 0; i < _orders.size(); i++) {
+		delete _orders[i];
+	}
+	_orders.clear();
+}
